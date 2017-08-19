@@ -37,7 +37,7 @@ section .text
 	mov eax,4
 	mov ebx,1
 	mov ecx,res
-	edx	edx,1
+	edx	edx,1 
 	int 80h
 
 	;dec
