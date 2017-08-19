@@ -36,7 +36,7 @@ mov edx,2
 int 80h
 
 
-mov rcx,10                          ;se mueve el registro de 10
+mov rcx,10                          ;se mueve el registro de 10 
 
 
 mifor:
