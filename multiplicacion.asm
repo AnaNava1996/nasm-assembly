@@ -36,7 +36,7 @@ _start:
 	mov ebx,1
 	mov ecx,res
 	mov edx,1
-	int 80h
+	int 80h 
 
 	;imprime nueva línea
 	mov eax,4
